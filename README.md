@@ -8,7 +8,7 @@
 </p>
 <div align="center">
    <a href="https://discord.com/users/560321664915603457" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/560321664915603457?bg=111111">
+      <img src="https://lanyard-profile-readme.vercel.app/api/560321664915603457">
    </a>
 </div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItzRazvyy&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
