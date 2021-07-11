@@ -1,4 +1,3 @@
-[![baby](https://media.discordapp.net/attachments/833660356026826792/861523576398282792/banner.png)](https://one4all.fr/)
 <p align="center">
    <a href="https://discord.com/users/560321664915603457" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
