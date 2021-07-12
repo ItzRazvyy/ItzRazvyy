@@ -12,4 +12,4 @@
 </div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItzRazvyy&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRazvyy&hide=css,scss&theme=onedark)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRazvyy&hide=css,scss&theme=onedark)
