@@ -1,6 +1,6 @@
 <h2 align="center">Hey!, I'm <a href="https://github.com/ItzRazvyy">Razvyy</a></h2>
 <p align="center">
-  <a href="https://discord.gg/xdwRNhxtZD">Community Discord Server</a> •
+  <a href="https://discord.gg/xdwRNhxtZD">Discord Server</a> •
   <a href="https://teddyandrew.xyz">Teddy Andrew</a>
 </p>
 
