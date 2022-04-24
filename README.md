@@ -10,8 +10,11 @@
    <a href="https://discord.com/users/560321664915603457" target="_blank">
    </a>
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItzRazvyy&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRazvyy&hide=css,scss&theme=onedark" alt="github stats"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+
+---
 
 <p align="center"> 
   Visitor count<br>
