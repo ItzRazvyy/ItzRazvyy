@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="25px"> , I'm <a href="https://9P9.github.io/profile/">Razvyy</a></h2>
+<h2 align="center">Hey!, I'm <a href="https://github.com/">Razvyy</a></h2>
 <p align="center">
   <a href="https://discord.gg/xdwRNhxtZD">Community Discord Server</a> •
   <a href="https://teddyandrew.xyz">Teddy Andrew</a> •
