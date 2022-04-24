@@ -12,3 +12,8 @@
 </div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItzRazvyy&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRazvyy&hide=css,scss&theme=onedark" alt="github stats"/>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/9P9/count.svg" />
+</p>
