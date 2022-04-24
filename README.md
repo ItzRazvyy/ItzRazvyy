@@ -1,11 +1,11 @@
-<h2 align="center">Hey!, I'm <a href="https://github.com/">Razvyy</a></h2>
+<h2 align="center">Hey!, I'm <a href="https://github.com/ItzRazvyy">Razvyy</a></h2>
 <p align="center">
   <a href="https://discord.gg/xdwRNhxtZD">Community Discord Server</a> •
-  <a href="https://teddyandrew.xyz">Teddy Andrew</a> •
+  <a href="https://teddyandrew.xyz">Teddy Andrew</a>
 </p>
 
 ---
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9P9&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRazvyy&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 ---
