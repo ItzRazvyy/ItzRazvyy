@@ -13,6 +13,4 @@
 
 ---
 
-<p align="center"> 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
-</p>
+[![ItzRazvyy profile views](https://u8views.com/api/v1/github/profiles/47006715/views/day-week-month-total-count.svg)](https://u8views.com/github/ItzRazvyy)
