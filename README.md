@@ -1,6 +1,5 @@
 <h2 align="center">Hey!, I'm <a href="https://github.com/ItzRazvyy">Razvyy</a></h2>
 
----
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 ![itzrazvyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzRazvyy&theme=dark&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRazvyy&layout=compact&theme=dark" alt="top-langs" />
