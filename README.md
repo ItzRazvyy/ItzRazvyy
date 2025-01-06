@@ -9,8 +9,8 @@
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
-- 🌱 I’m currently learning **[Javascript](https://nodejs.com)**
-- 💬 Ask me about **Java, Node.js, Python...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 🌱 I’m currently learning **[Python](https://python.com)**
+- 💬 Ask me about **Java, Node.js, Python...or anything [here](https://github.com/ITzRazvyy/ITzRazvyy/issues)**
 
 <br>
 
