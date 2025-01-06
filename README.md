@@ -1,16 +1,4 @@
-<h2 align="center">Hey!, I'm <a href="https://github.com/ItzRazvyy">Razvyy</a></h2>
-
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-![itzrazvyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzRazvyy&theme=dark&show_icons=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRazvyy&layout=compact&theme=dark" alt="top-langs" />
-</p>
-
----
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-
----
-
-[![ItzRazvyy profile views](https://u8views.com/api/v1/github/profiles/47006715/views/day-week-month-total-count.svg)](https://u8views.com/github/ItzRazvyy)
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
