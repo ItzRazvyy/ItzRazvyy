@@ -1,8 +1,4 @@
 <h2 align="center">Hey!, I'm <a href="https://github.com/ItzRazvyy">Razvyy</a></h2>
-<p align="center">
-  <a href="https://discord.gg/xdwRNhxtZD">Discord Server</a> •
-  <a href="https://teddyandrew.xyz">Teddy Andrew</a>
-</p>
 
 ---
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
